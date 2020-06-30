@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfControlTemplate", "WpfCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDataTemplate", "WpfDataTemplate\WpfDataTemplate.csproj", "{BDCE44C6-270E-47D3-81F8-624928C9BEF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTriggers", "WpfTriggers\WpfTriggers.csproj", "{CD880D73-CC23-4F02-95FF-0DB0CEBC3BF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BDCE44C6-270E-47D3-81F8-624928C9BEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDCE44C6-270E-47D3-81F8-624928C9BEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDCE44C6-270E-47D3-81F8-624928C9BEF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD880D73-CC23-4F02-95FF-0DB0CEBC3BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD880D73-CC23-4F02-95FF-0DB0CEBC3BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD880D73-CC23-4F02-95FF-0DB0CEBC3BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD880D73-CC23-4F02-95FF-0DB0CEBC3BF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
