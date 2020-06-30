@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFStyles", "WpfApp1\WPFSty
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfControlTemplate", "WpfControlTemplate\WpfControlTemplate.csproj", "{3081F340-C9AE-43CE-AB78-CE7E33E1DC21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDataTemplate", "WpfDataTemplate\WpfDataTemplate.csproj", "{BDCE44C6-270E-47D3-81F8-624928C9BEF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3081F340-C9AE-43CE-AB78-CE7E33E1DC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3081F340-C9AE-43CE-AB78-CE7E33E1DC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3081F340-C9AE-43CE-AB78-CE7E33E1DC21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDCE44C6-270E-47D3-81F8-624928C9BEF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCE44C6-270E-47D3-81F8-624928C9BEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCE44C6-270E-47D3-81F8-624928C9BEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCE44C6-270E-47D3-81F8-624928C9BEF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
